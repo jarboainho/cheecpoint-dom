@@ -4,7 +4,6 @@ var card = document.querySelectorAll(".card");
 var total = document.querySelector(".total");
 var remove = document.querySelectorAll(".trash");
 var removeAll = document.querySelector(".Action");
-
 var totalAmount = document.querySelector(".total-amount");
 
 btnplus.forEach((el) =>
